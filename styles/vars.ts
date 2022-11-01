@@ -1,0 +1,33 @@
+export default {
+    // Colors
+    COMP_CREME: '#EAE7E3',
+    COMP_BLACK: '#101011',
+    COMP_GREY: '#251C4F',
+    COMP_PRIMARY: '#D68675',
+    COMP_ALLOW: '#E7D07D',
+
+    // Responsive
+    MOBILE: '600px',
+    TABLET: '960px',
+    DESKTOP_SM: '1280px',
+    DESKTOP_MD: '1440px',
+    DESKTOP_LG: '1920px',
+
+    // z-indexes
+    Z_INDEX_UNDER_DEFAULT: -1,
+    Z_INDEX_DEFAULT: 0,
+    Z_INDEX_OVER_DEFAULT: 1,
+    Z_INDEX_BANNER: 4,
+    Z_INDEX_OVER_IMAGE: 6,
+    Z_INDEX_GALLERY_CARD_UNDER: 75,
+    Z_INDEX_GALLERY_CARD: 100,
+    Z_INDEX_GALLERY_CARD_OVER: 125,
+    Z_INDEX_HEADER: 250,
+    Z_INDEX_MOBILE_NAV_BAR: 500,
+
+    // Other variables
+    HEADER_DESKTOP_HEIGHT: '12.5rem',
+    HEADER_MOBILE_HEIGHT: '10.5rem',
+    BANNER_LINE_HEIGHT: '49rem',
+    BANNER_LINE_HEIGHT_MD: '45rem',
+}
